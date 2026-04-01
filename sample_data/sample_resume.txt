@@ -1,0 +1,35 @@
+NAME 
+John Doe
+
+EMAIL
+john.doe@email.com
+
+SUMMARY
+Senior Data Engineer with 6 years of experience building large-scale data pipelines and analytics platforms. Passionate about data quality, cloud infrastructure, and enabling data-driven decision making.
+
+EXPERIENCE
+
+Senior Data Engineer | TechCorp Inc. | 2021 – Present
+- Built end-to-end ETL pipelines using Apache Spark and Apache Airflow processing 5TB+ daily
+- Migrated legacy data warehouse to Snowflake, reducing query latency by 40%
+- Implemented dbt models for business-critical reporting datasets
+- Containerized pipeline services with Docker and deployed on Kubernetes
+- Set up CI/CD workflows using GitHub Actions for automated testing and deployment
+
+Data Engineer | DataStream Co. | 2019 – 2021
+- Developed Python-based data ingestion pipelines from 20+ external APIs
+- Wrote advanced SQL queries and stored procedures for analytics reporting
+- Collaborated with data scientists to deploy ML models into production using MLflow
+- Built real-time data streaming with Apache Kafka
+
+EDUCATION
+Master of Science in Computer Science | State University | 2019
+Bachelor of Engineering in Information Technology | City College | 2017
+
+SKILLS
+Python, Apache Spark, Apache Airflow, SQL, Snowflake, dbt, Docker, Kubernetes, Apache Kafka,
+MLflow, Git, GitHub Actions, CI/CD, BigQuery, AWS (S3, Glue, Lambda), GCP
+
+CERTIFICATIONS
+- AWS Certified Data Analytics – Specialty (2022)
+- Google Professional Data Engineer (2023)
