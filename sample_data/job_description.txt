@@ -1,0 +1,30 @@
+Job Title: Senior Data Engineer
+
+We are looking for a Senior Data Engineer to join our growing data platform team.
+
+Responsibilities:
+- Design and build scalable data pipelines using Apache Spark and Airflow
+- Manage and optimize data warehouses (Snowflake or BigQuery)
+- Collaborate with data scientists to productionize ML models
+- Implement data quality frameworks and monitoring
+- Mentor junior engineers and conduct code reviews
+
+Required Skills:
+- Python (5+ years)
+- Apache Spark
+- Apache Airflow
+- SQL (advanced)
+- Snowflake or BigQuery
+- dbt (data build tool)
+- Docker and Kubernetes
+- Git and CI/CD pipelines
+
+Nice to Have:
+- Experience with Kafka or real-time streaming
+- Knowledge of MLflow or MLOps practices
+- AWS or GCP cloud certifications
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Engineering, or related field
+- 5+ years of experience in data engineering
+- Strong communication skills and ability to work in a cross-functional team
